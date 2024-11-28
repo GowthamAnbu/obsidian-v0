@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "c6a42142c1bafeaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "7929e8ea260e72aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "473ae1844a0b00d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5557b199ac8b0725",
+    "type": "split",
+    "children": [
+      {
+        "id": "03d1db46c1b62230",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceeb7bb8e3bec0b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "512f39529b305367",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "be2f0cc4936344a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8173afe8b7737878",
+    "type": "split",
+    "children": [
+      {
+        "id": "bed7fbd325a0b243",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9bbc4507bb3d204",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-11-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-11-28"
+            }
+          },
+          {
+            "id": "3f44cb30facd5799",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-11-26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-26"
+            }
+          },
+          {
+            "id": "d7403ef49b93fc94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e2d05cdca7f90f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-11-26.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-26"
+            }
+          },
+          {
+            "id": "d5cd107a132a20b9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "473ae1844a0b00d0",
+  "lastOpenFiles": [
+    "2024-11-28.md",
+    "Angular.md",
+    "Untitled.md",
+    "The Paradox of Transcendence - Claude.pdf",
+    "2024-11-27.md",
+    "2024-11-26.md",
+    "Untitled.canvas"
+  ]
+}
