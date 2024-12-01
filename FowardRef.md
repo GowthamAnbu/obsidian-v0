@@ -17,3 +17,6 @@
 1. Angular Di
 	1. what strong evidence that you have to tell that angular DI is Service Locator Design Pattern. Deep dive. Give me precise code samples(with inline commented detailed explanations for necessary lines) in angular source code.
 	2. _Deferred Binding_: Binding is deferred until runtime when all necessary dependencies are available - so here the binding of which entity needs which dependencies is done only at app level (where components, services, pipes, directives in it's constructor mention they need these dependencies (along with decorators like self, optional, etc...) or using inject function)?
+
+Learn NG_VALIDATORS is used (in the context of polymorphic maybe - reiterate this after below polymorphic - ask chatgpt to compare this all implementation of all valueAccessors default, inputValueAccessor, etc... with the polymorphic nature of ngControl) in the context of multi provider (deep dive here). quantum entanglement of dual nature
+Search through how ngcontrol is provided with all the other polymorphic resolution with ngmodel, form_control_directive, form_control_name (Learn ngmodel first everything about it with first principles down to the quantum entanglement HA HA..) - This is mainly to learn about how useExisting is needed for providers without the multi.

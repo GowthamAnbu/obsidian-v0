@@ -11,10 +11,15 @@
             "id": "473ae1844a0b00d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FowardRef.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "FowardRef"
             }
           }
         ]
@@ -169,13 +174,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "473ae1844a0b00d0",
+  "active": "ceeb7bb8e3bec0b4",
   "lastOpenFiles": [
     "2024-11-28.md",
+    "2024-11-29.md",
+    "FowardRef.md",
     "Angular.md",
     "Untitled.md",
     "The Paradox of Transcendence - Claude.pdf",
-    "2024-11-27.md",
     "2024-11-26.md",
     "Untitled.canvas"
   ]
