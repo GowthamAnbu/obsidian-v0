@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning GIT.md",
+                "file": "Learning and Creative Work.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning GIT"
+              "title": "Learning and Creative Work"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "473ae1844a0b00d0",
   "lastOpenFiles": [
-    "Learning and Creative Work.md",
     "Learning GIT.md",
+    "Learning and Creative Work.md",
     "FowardRef.md",
     "Untitled.md",
     "2024-11-28.md",

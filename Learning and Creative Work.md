@@ -1,4 +1,5 @@
 TODO:
+	[GitHub](https://github.com/pqrs-org/Karabiner-Elements)
 	Export Claude - The paradox of Transcendence
 	Export Chatgpt - ForwardRef and map it to relevant Obsidian pages
 
