@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning and Creative Work.md",
+                "file": "Learning GIT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning and Creative Work"
+              "title": "Learning GIT"
             }
           }
         ]
@@ -145,19 +145,9 @@
               "icon": "lucide-list",
               "title": "Outline of 2024-11-26"
             }
-          },
-          {
-            "id": "d5cd107a132a20b9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,14 +161,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "473ae1844a0b00d0",
   "lastOpenFiles": [
-    "FowardRef.md",
     "Learning and Creative Work.md",
+    "Learning GIT.md",
+    "FowardRef.md",
     "Untitled.md",
     "2024-11-28.md",
     "2024-11-29.md",
