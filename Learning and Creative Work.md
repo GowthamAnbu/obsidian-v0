@@ -1,7 +1,9 @@
 TODO:
-	[GitHub](https://github.com/pqrs-org/Karabiner-Elements)
-	Export Claude - The paradox of Transcendence
-	Export Chatgpt - ForwardRef and map it to relevant Obsidian pages
+	1. [GitHub](https://github.com/pqrs-org/Karabiner-Elements) - Righty Preference to involve Righty (Lefty is already mastered and muscle memoried)
+		1. Right enter key to control key (enter key is there in the numpad)
+		2. Right shift key to  command key (left key is there for this)
+	2. Export Claude - The paradox of Transcendence - Tag Prompt
+	3. Export Chatgpt - ForwardRef and map it to relevant Obsidian pages - Tag Prompt
 
 
 Prompt:
