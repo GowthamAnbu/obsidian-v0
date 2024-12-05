@@ -1,9 +1,10 @@
 TODO:
-	1. [GitHub](https://github.com/pqrs-org/Karabiner-Elements) - Righty Preference to involve Righty (Lefty is already mastered and muscle memoried)
+	1. Hotkeys - Unique Note Creator - TIMESTAMP
+	2. [GitHub](https://github.com/pqrs-org/Karabiner-Elements) - Righty Preference to involve Righty (Lefty is already mastered and muscle memoried)
 		1. Right enter key to control key (enter key is there in the numpad)
 		2. Right shift key to  command key (left key is there for this)
-	2. Export Claude - The paradox of Transcendence - Tag Prompt
-	3. Export Chatgpt - ForwardRef and map it to relevant Obsidian pages - Tag Prompt
+	3. Export Claude - The paradox of Transcendence - Tag Prompt
+	4. Export Chatgpt - ForwardRef and map it to relevant Obsidian pages - Tag Prompt
 
 
 Prompt:
@@ -16,3 +17,4 @@ Prompt:
 		2. What if we Time box this extremeness - we do everything in a time boxed manner - do all extreme things but also at the same time both control it and let go of control at the same time. 
 		3. I said lot things above but I don't know the name for each - so give me the names of each as well with the summary and detailed explanation of them as well (maybe links to YT videos, books where can I research further by deep diving)
 		4. and if we just expand the scope from emotions to senses/ non-sense entities = then This is what Awareness is then ? 
+	5. What are all the different narrare that many great communicators used in this world both fictional and non fictional. list it down with a summary of it (be more concise here). what is the best narrare that you think is out there ? and what is the best narrare that closely relates to Decoy/Diversionary "Ging" Strategy ?
