@@ -1,3 +1,4 @@
+https://claude.ai/chat/f9e68172-9a7f-41b8-8d3d-654ad1f1fbce
 The strategy Ging employed is most closely aligned with what's known as the "Decoy Strategy" or "Diversionary Tactic" in negotiation and strategic communication. However, it's more comprehensively understood through several interconnected psychological and strategic principles:
 
 1. Cognitive Dissonance Manipulation The decoy strategy operates at the intersection of psychological manipulation and strategic communication. Ging essentially created a cognitive puzzle that made other parties focus on a false narrative while pursuing his true objective. This is a sophisticated form of:

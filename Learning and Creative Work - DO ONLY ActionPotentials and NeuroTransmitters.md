@@ -1,10 +1,33 @@
 TODO:
+	1.Export all Chat with chatgpt and claude as PDFs into Obsidian 
+	2. TAG - Just create a simple tags for important things
+		1. **Action Potentials**  | Electric Signals **Increase** this by continuous new learning, *Boring* doesn't work here
+		2. **Neurotransmitters** | Chemical Signals **Regulate** this by controlling your emotions (Focused Boxing), *Boring* works here
+		3. Incrementally Iteratively create TAG (be more conservative in the 'create' part) 
+	3. Learn https://git-lfs.github.com.
+	```
+		5. Pushing to github.com:GowthamAnbu/obsidian-v0.git
+		Enumerating objects: 25, done.
+		Counting objects: 100% (25/25), done.
+		Delta compression using up to 11 threads
+		Compressing objects: 100% (15/15), done.
+		Writing objects: 100% (17/17), 60.11 MiB | 2.68 MiB/s, done.
+		Total 17 (delta 7), reused 0 (delta 0), pack-reused 0 (from 0)
+		remote: Resolving deltas: 100% (7/7), completed with 7 local objects.
+		remote: warning: See https://gh.io/lfs for more information.
+		remote: warning: File Pdfs/The-Paradox-of-Transcendence-2024-12-11-06_38_31.pdf is     53.35 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+		remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+		To github.com:GowthamAnbu/obsidian-v0.git
+		   3258262..2c2b740  master -> master
+		updating local tracking ref 'refs/remotes/origin/master'
+	```
 	1. Hotkeys - Unique Note Creator - TIMESTAMP | DONE
 	2. [GitHub](https://github.com/pqrs-org/Karabiner-Elements) - Righty Preference to involve Righty (Lefty is already mastered and muscle memoried)
 		1. Right enter key to control key (enter key is there in the numpad) - UPDATE: 2024-12-1107:36 - remapped right enter key to same key because right enter is so reliable for entering and I can easily use the ctrl key in the right side better os management commands
 		2. Right shift key to  command key (left key is there for this)
-	3. Export Claude - The paradox of Transcendence - Tag Prompt
-	4. Export Chatgpt - ForwardRef and map it to relevant Obsidian pages - Tag Prompt
+	3. Export Claude - The paradox of Transcendence - DONE
+	4. Export Chatgpt - ForwardRef and map it to relevant Obsidian pages - DONE
+	5. 
 
 
 Prompt:
