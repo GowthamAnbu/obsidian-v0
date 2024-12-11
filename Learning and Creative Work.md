@@ -1,7 +1,7 @@
 TODO:
-	1. Hotkeys - Unique Note Creator - TIMESTAMP
+	1. Hotkeys - Unique Note Creator - TIMESTAMP | DONE
 	2. [GitHub](https://github.com/pqrs-org/Karabiner-Elements) - Righty Preference to involve Righty (Lefty is already mastered and muscle memoried)
-		1. Right enter key to control key (enter key is there in the numpad)
+		1. Right enter key to control key (enter key is there in the numpad) - UPDATE: 2024-12-1107:36 - remapped right enter key to same key because right enter is so reliable for entering and I can easily use the ctrl key in the right side better os management commands
 		2. Right shift key to  command key (left key is there for this)
 	3. Export Claude - The paradox of Transcendence - Tag Prompt
 	4. Export Chatgpt - ForwardRef and map it to relevant Obsidian pages - Tag Prompt
