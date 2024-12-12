@@ -3,6 +3,8 @@ TODO:
 all new list(not tag) as takeaways for initils podcast takeaway and later increase scope to life takeaway - rename 'traits and quirks' to life takeaway - and inside it place the podcast takeaways. (Takeaways are like the GOLD you saved in instagram.)
 Export all Chat with chatgpt and claude as PDFs into Obsidian 
 	2. TAG - Just create a simple tags for important things
+DO refactor or change/move things around to make all main files PURE (TODO, ♾️🌀, V0, meh )
+Move last below points of prompts to its own prompts file. 
 		1. **Action Potentials**  | Electric Signals **Increase** this by continuous new learning, *Boring* doesn't work here
 		1. **Neurotransmitters** | Chemical Signals **Regulate** this by controlling your emotions (Focused Boxing), *Boring* works here
 		1. Incrementally Iteratively create TAG (be more conservative in the 'create' part) 
