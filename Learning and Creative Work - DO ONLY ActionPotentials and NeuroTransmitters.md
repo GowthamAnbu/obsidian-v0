@@ -1,6 +1,6 @@
 TODO:
 	1. Rename this file name to TODO
-all new list(not tag) as takeaways for initils podcast takeaway and later increase scope to life takeaway
+all new list(not tag) as takeaways for initils podcast takeaway and later increase scope to life takeaway - rename 'traits and quirks' to life takeaway - and inside it place the podcast takeaways. (Takeaways are like the GOLD you saved in instagram.)
 Export all Chat with chatgpt and claude as PDFs into Obsidian 
 	2. TAG - Just create a simple tags for important things
 		1. **Action Potentials**  | Electric Signals **Increase** this by continuous new learning, *Boring* doesn't work here
