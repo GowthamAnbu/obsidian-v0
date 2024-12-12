@@ -1,12 +1,12 @@
 TODO:
-	1.Export all Chat with chatgpt and claude as PDFs into Obsidian 
+	1. Export all Chat with chatgpt and claude as PDFs into Obsidian 
 	2. TAG - Just create a simple tags for important things
 		1. **Action Potentials**  | Electric Signals **Increase** this by continuous new learning, *Boring* doesn't work here
-		2. **Neurotransmitters** | Chemical Signals **Regulate** this by controlling your emotions (Focused Boxing), *Boring* works here
-		3. Incrementally Iteratively create TAG (be more conservative in the 'create' part) 
+		1. **Neurotransmitters** | Chemical Signals **Regulate** this by controlling your emotions (Focused Boxing), *Boring* works here
+		1. Incrementally Iteratively create TAG (be more conservative in the 'create' part) 
 	3. Learn https://git-lfs.github.com.
-	```
-		5. Pushing to github.com:GowthamAnbu/obsidian-v0.git
+	4. ```
+		Pushing to github.com:GowthamAnbu/obsidian-v0.git
 		Enumerating objects: 25, done.
 		Counting objects: 100% (25/25), done.
 		Delta compression using up to 11 threads
@@ -19,16 +19,15 @@ TODO:
 		remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
 		To github.com:GowthamAnbu/obsidian-v0.git
 		   3258262..2c2b740  master -> master
-		updating local tracking ref 'refs/remotes/origin/master'
-	```
-	1. Hotkeys - Unique Note Creator - TIMESTAMP | DONE
-	2. [GitHub](https://github.com/pqrs-org/Karabiner-Elements) - Righty Preference to involve Righty (Lefty is already mastered and muscle memoried)
-		1. Right enter key to control key (enter key is there in the numpad) - UPDATE: 2024-12-1107:36 - remapped right enter key to same key because right enter is so reliable for entering and I can easily use the ctrl key in the right side better os management commands
-		2. Right shift key to  command key (left key is there for this)
-	3. Export Claude - The paradox of Transcendence - DONE
-	4. Export Chatgpt - ForwardRef and map it to relevant Obsidian pages - DONE
-	5. 
-
+		updating local tracking ref 'refs/remotes/origin/master'```
+	6. Setvalue recursive loop - src/model/form_group 
+	7. Export Chatgpt - ForwardRef and map it to relevant Obsidian pages
+	8. ~~Hotkeys - Unique Note Creator - TIMESTAMP~~
+	9. [GitHub](https://github.com/pqrs-org/Karabiner-Elements) - Righty Preference to involve Righty (Lefty is already mastered and muscle memoried)
+		1. ~~Right enter key to control key (enter key is there in the numpad)~~ - UPDATE: 2024-12-1107:36 - remapped right enter key to same key because right enter is so reliable for entering and I can easily use the ctrl key in the right side better os management commands
+		1. ~~Right shift key to  command key~~ (left key is there for this)
+	10. ~~Export Claude - The paradox of Transcendence~~
+	11. 
 
 Prompt:
 	1. Mirror Version cyclic knowing/understanding/realizing Paradox  or what it the correct name for it ?:
