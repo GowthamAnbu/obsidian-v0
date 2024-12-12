@@ -1,5 +1,7 @@
 TODO:
-	1. Export all Chat with chatgpt and claude as PDFs into Obsidian 
+	1. Rename this file name to TODO
+all new list(not tag) as takeaways for initils podcast takeaway and later increase scope to life takeaway
+Export all Chat with chatgpt and claude as PDFs into Obsidian 
 	2. TAG - Just create a simple tags for important things
 		1. **Action Potentials**  | Electric Signals **Increase** this by continuous new learning, *Boring* doesn't work here
 		1. **Neurotransmitters** | Chemical Signals **Regulate** this by controlling your emotions (Focused Boxing), *Boring* works here
