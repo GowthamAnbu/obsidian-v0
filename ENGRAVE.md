@@ -1,3 +1,3 @@
 1. THE MORE INNER I LOOK INTO - THE MORE AWARE I BECOME OF MYSELF AND THE UNIVERSES - what the fuck is this. I think this is Quantum Coherence and Quantum entanglement. LOCAL AND NON-LOCAL OUR HUMAN UNDERSTANDING. AWARENESS Is currently non comprehensive to me. pursue this. 
-
-2. we truly become what we do. so fuckin' do it 
+2. we truly become what we do. so fuckin' do it.
+3. THE MORE MATERIALIST SUPER CREATION THING I BUY I AM ABLE TO DO UNLOCK MORE POTENTIAL - it is NOT materialist view. it's not only craftmanship but also fuckin able to do things like macbook + obsidian + git helped me with my state, thought, emotions, feelings, understanding.
