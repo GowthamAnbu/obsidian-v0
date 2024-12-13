@@ -1,0 +1,1 @@
+2024-12-10 John Carmack deep analysis of the last questions by lex Fridman
