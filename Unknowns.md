@@ -1,0 +1,4 @@
+Numbers are obselete. (like modern numbers)
+If you are investing or doing anything think in terms of ratios that helps. SYMBOLS are better. These things help us but not sure how reliable they are!
+
+Grok: I am 30 year old living with my parents from a tier 3 town in tamilnadu south india. I want to achieve "financial freedom". Help me achieve "Financial Freedom" as people would cal it. I am currently having around Rs.3 Lakhs in my HDFC account. I made zero financial investments so far in my life. Help me first learn what financial freedom is. WHAT ? WHY ? HOW ? of it. and then give me the top 3 best possisble optimal strategies that I can use to learn financial freedom. what is the first principles behind financial freedom. what are all the YT, Insta, and X accounts or pages I can follow to better understand everything about financial industry. 
