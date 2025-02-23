@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/Windows File Home server - only the file accessing part. not the windows app working solution..md",
+                "file": "windows/Windows - on progress - finding out how to configure RDP -first time I used RDP wrapper - similarly I am trying to fix it again using the ini file- this file doesn't come with rdfp wrapper itself..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Windows File Home server - only the file accessing part. not the windows app working solution."
+              "title": "Windows - on progress - finding out how to configure RDP -first time I used RDP wrapper - similarly I am trying to fix it again using the ini file- this file doesn't come with rdfp wrapper itself."
             }
           }
         ]
@@ -184,6 +184,7 @@
   "active": "c8f09efa629b1a21",
   "lastOpenFiles": [
     "windows/Windows File Home server - only the file accessing part. not the windows app working solution..md",
+    "windows/Windows - on progress - finding out how to configure RDP -first time I used RDP wrapper - similarly I am trying to fix it again using the ini file- this file doesn't come with rdfp wrapper itself..md",
     "Windows Home Server - File access alone.md",
     "windows",
     "Windows Dual Boot Biggie - Tag Prompt.md",
@@ -218,7 +219,6 @@
     "Awareness.md",
     "Workstation.md",
     "2024-11-28.md",
-    "Time Management.md",
     "Untitled.canvas"
   ]
 }
