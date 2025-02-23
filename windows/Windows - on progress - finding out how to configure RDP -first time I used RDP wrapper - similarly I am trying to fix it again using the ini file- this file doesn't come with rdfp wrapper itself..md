@@ -458,3 +458,11 @@ Run these steps, and let me know what `RDPConf.exe` shows after reinstalling wit
 
 
 
+
+
+  
+
+Updated with build version of windows at 
+
+**1. termsrv.dll > 10.0.22621.4830**
+2.Version 23h2 > OS Build 22631.4830
