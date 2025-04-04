@@ -4,5 +4,6 @@
   "textFontFamily": "",
   "baseFontSizeAction": true,
   "translucency": true,
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "showRibbon": true
 }
