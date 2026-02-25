@@ -26,3 +26,7 @@ I am a very positive person.
 I am a very positive person.
 I am a very positive person.
 I am a very positive person.
+
+I am a very positive person.
+I am a very positive person.
+I am a very positive person.
