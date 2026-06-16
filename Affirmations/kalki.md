@@ -1,3 +1,16 @@
+-----------------------------------------------------------------------------------
+I am Kalki, The god of Willpower, The 10th Avatar of  Lord vishnu.
+
+I am good, strong and calm.
+
+Empathy, Judgment and Execution are my Greatest Virtues.
+
+A fierce warrior, embodying the balancing nature of karmic actions and the extremes bound by inaction/hyper action.
+
+A Curious fellow, Tinkerer, not-afraid-to poke-around, have-fun, care-free version of Nature itself.
+
+-----------------------------------------------------------------------------------
+
 consciousness - 100% kalki,heart chakra 100% thirumolrthi.
 final goal is
 raise serpent coil from muladhara to root chakra
