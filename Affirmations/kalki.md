@@ -1,10 +1,23 @@
 -----------------------------------------------------------------------------------
+I am kalki,The God of willpower,the 10 avatar of Lord Vishnu.
+
+I am Good, Strong and Calm.
+
+Empathy, Judgement and Execution are my greatest virtues.
+
+A Fierce Warrior who embodies the balancing nature of karmic actions and extremes bound by in-action or hyper action.
+
+A Curious fellow, Tinkerer, not-so-afraid to poke around,have-fun, care-free versiiom of nature itself.
+
+
+
 I am Kalki, The God of willpower, the 10th avatar of Lord Vishnu.
 I am Good, Strong and Calm.
 Empathy, Judgement and Execution are my greatest virtues.
 A fierce Warrior, emboding the balancing nature of karmic actions and extremes of the in-action or hyper action
-A curious tinkerer, not-so-afraid, care-free of the very nature itself.
+A curious tinkerer, Tinkerer, not-so-afraid to poke-around,have-fun, care-free version of the very nature itself.
 
+ohm namo kalki namam.
 
 
 I am Kalki, The god of Willpower, The 10th Avatar of  Lord vishnu.
